@@ -19,12 +19,13 @@ body{
     border-radius: 10px;
     padding: 2rem;
     box-shadow: 10px 10px 50px 0px hsl(0, 0%, 81%);
-    font-family: "Young Serif", serif;
-    font-style: normal;
 }
 .card1{
     background-color: hsl(263, 55%, 52%);
     color: white;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .card1 .card-head img{
     border: 2px solid hsl(264, 82%, 80%);
