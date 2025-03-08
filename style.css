@@ -4,10 +4,9 @@
     box-sizing: border-box;
 }
 body{
-        font-family: "Young Serif", serif;
-        font-weight: 400;
-        font-style: normal;
-      
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 .container{
     width: 80%;
@@ -59,7 +58,7 @@ body{
     gap: 0.75rem;
 }
 .card-head h2{
-    font-weight: 500;
+    font-weight: 600;
 }
 .card-head img{
     border-radius: 50%;
