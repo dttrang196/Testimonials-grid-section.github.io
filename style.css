@@ -3,11 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-.young-serif-regular {
-    font-family: "Young Serif", serif;
-    font-weight: 400;
-    font-style: normal;
-}
 body{
     font-family: "Barlow Semi Condensed", sans-serif;
     font-size: 13px;
@@ -24,6 +19,9 @@ body{
     border-radius: 10px;
     padding: 2rem;
     box-shadow: 10px 10px 50px 0px hsl(0, 0%, 81%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .card1{
     background-color: hsl(263, 55%, 52%);
