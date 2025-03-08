@@ -7,10 +7,10 @@ body{
     font-family: "Barlow Semi Condensed", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size:13px;
+    font-size: 13px;
 }
 .container{
-    width: 80%;
+    width: 70%;
     margin: 4rem auto;
 }
 .grid{
