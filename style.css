@@ -29,6 +29,9 @@ body{
 .card1 .card-head img{
     border: 2px solid hsl(264, 82%, 80%);
 }
+.card1 .quotation{
+    align-items: flex-end;
+}
 .card1 .card-body h2{
     color: white;
 }
