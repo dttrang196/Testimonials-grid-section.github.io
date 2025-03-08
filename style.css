@@ -29,9 +29,15 @@ body{
 .card1 .card-head img{
     border: 2px solid hsl(264, 82%, 80%);
 }
+.card1 .card-body h2{
+    color: white;
+}
 .card2{
     background-color: hsl(217, 19%, 35%);
     color: hsl(214, 17%, 92%);
+}
+.card2 .card-body h2{
+    color: white;
 }
 .card3{
     background-color: white;
