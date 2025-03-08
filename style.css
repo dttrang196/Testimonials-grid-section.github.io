@@ -68,8 +68,4 @@ body{
 }
 .card-body p{
     margin: 1rem 0;
-    color: hsl(214, 17%, 92%)
-}
-.card-head p:last-child{
-    color:hsl(0, 0%, 81%);
 }
