@@ -52,3 +52,14 @@ body{
 .card5 .card-body h2{
     color: hsl(219, 29%, 14%);
 }
+.flex{
+    display: flex;
+    gap: 0.75rem;
+}
+.card-head h2{
+    font-weight: 500;
+}
+.card-head img{
+    border-radius: 50%;
+    width: 35px;
+}
