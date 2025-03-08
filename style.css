@@ -39,10 +39,6 @@ body{
 }
 .card3 .card-body h3{
     color: hsl(219, 29%, 14%);
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 16px;
 }
 .card4{
     background-color: hsl(219, 29%, 14%);
@@ -57,7 +53,11 @@ body{
 }
 .card5 .card-body h3{
     color: hsl(219, 29%, 14%);
+}
+.card-body h3{
     font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 .flex{
     display: flex;
