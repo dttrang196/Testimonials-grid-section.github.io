@@ -5,9 +5,9 @@
 }
 body{
     font-family: "Barlow Semi Condensed", sans-serif;
-    font-weight: 500;
+    font-weight: 400;
     font-style: normal;
-    font-size: 13px;
+    font-size: 14px;
 }
 .container{
     width: 80%;
@@ -56,8 +56,9 @@ body{
 }
 .card-body h2{
     font-family: "Barlow Semi Condensed", sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     font-style: normal;
+    font-size: 18px;
 }
 .flex{
     display: flex;
