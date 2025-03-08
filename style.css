@@ -63,3 +63,13 @@ body{
     border-radius: 50%;
     width: 35px;
 }
+.card-body{
+    margin: 1rem 0;
+}
+.card-body p{
+    margin: 1rem 0;
+    color: hsl(214, 17%, 92%)
+}
+.card-head p:last-child{
+    color:hsl(0, 0%, 81%);
+}
