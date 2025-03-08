@@ -36,7 +36,7 @@ body{
     background-color: white;
     color: hsl(224, 10%, 45%);;
 }
-.card3 .card-body h2{
+.card3 .card-body h3{
     color: hsl(219, 29%, 14%);
 }
 .card4{
@@ -50,7 +50,7 @@ body{
     background-color: white;
     color: hsl(224, 10%, 45%);
 }
-.card5 .card-body h2{
+.card5 .card-body h3{
     color: hsl(219, 29%, 14%);
 }
 .flex{
