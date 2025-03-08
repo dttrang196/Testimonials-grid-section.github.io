@@ -30,7 +30,7 @@ body{
     border: 2px solid hsl(264, 82%, 80%);
 }
 .card1 .quotation{
-    align-items: flex-end;
+    align-self: right;
 }
 .card1 .card-body h2{
     color: white;
