@@ -57,9 +57,6 @@ body{
     display: flex;
     gap: 0.75rem;
 }
-.card-head h2{
-    font-weight: 400;
-}
 .card-head img{
     border-radius: 50%;
     width: 35px;
