@@ -56,8 +56,7 @@ body{
 }
 .card-body h2{
     font-family: "Barlow Semi Condensed", sans-serif;
-    font-weight: 500;
-    font-size: 20px;
+    font-weight: 400;
 }
 .flex{
     display: flex;
