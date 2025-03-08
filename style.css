@@ -30,8 +30,6 @@ body{
     border: 2px solid hsl(264, 82%, 80%);
 }
 .card1 .quotation{
-    top: -10px;
-    left: -10px;
     position: absolute;
     width: 50px;
     height: auto;
